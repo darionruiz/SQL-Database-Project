@@ -4,7 +4,7 @@ In this project, I used mock data to build a database for a local pizzeria, quer
 
 ## Relational Database Model
 
-The customer wanted to be able to see orders, customer information, staffing information, and see inventory. With that information, I created the database model below. This helped me to visualize what was needed before I created the database in MySQL. For a more detailed view of the creation, please go [here](https://github.com/darionruiz/SQL-Database-Project/tree/personal_projects/3-database-creation).
+The customer wanted to be able to see orders, customer information, staffing information, and inventory. With that information, I created the database model below. This helped me to visualize what was needed before I created the database in MySQL. For a more detailed view of the creation, please go [here](https://github.com/darionruiz/SQL-Database-Project/tree/personal_projects/3-database-creation).
 
 ![mockup4](https://user-images.githubusercontent.com/104656507/193480515-6b345d36-70f0-4759-b404-c09fe0f1548f.png)
 
