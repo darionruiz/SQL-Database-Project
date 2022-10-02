@@ -1,6 +1,6 @@
 # Summary
 
-In this project, I used mock data to build a database for a local Pizzeria, query specific business needs, and create dashboards using Tableau.
+In this project, I used mock data to build a database for a local pizzeria, query specific business needs, and create dashboards using Tableau.
 
 ## Relational Database Model
 
